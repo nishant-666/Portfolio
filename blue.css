@@ -1,0 +1,21 @@
+:root{
+	--mainColor:#424242;
+	--secondaryColor:#212121;
+
+	--borderColor:#212121;
+
+	--mainText:#eeeeee;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:black;
+	--previewShadow:#111921;
+
+
+	--buttonColor:#17a2b8;
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
