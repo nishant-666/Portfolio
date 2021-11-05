@@ -412,6 +412,15 @@ h6 { font-size: 16px;}
 	border:none;
 }
 
+.cover-img{
+	width: 100%;
+	border-radius: 30px;
+	border-bottom: 3px solid #f44336;
+	border-top: 3px solid #f44336;
+	border-left: 2px solid #f44336;
+	border-right: 2px solid #f44336;
+}
+
 
 @media screen and (max-width: 1200px){
 	.main-container{
