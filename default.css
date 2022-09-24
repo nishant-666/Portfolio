@@ -333,8 +333,8 @@ h6 { font-size: 16px;}
 
 .post-wrapper{
 	display: grid;
-	grid-template-columns: repeat(auto-fit, 320px);
-	gap:20px;
+	grid-template-columns: repeat(auto-fit, 400px);
+	gap: 20px;
 	justify-content: center;
 	padding-bottom: 50px;
 }
